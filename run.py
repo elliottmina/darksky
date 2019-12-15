@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+# TODO: auto discover header rows
+
 import requests
 import csv
 from datetime import timedelta, date
